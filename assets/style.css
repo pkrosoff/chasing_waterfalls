@@ -1,0 +1,18 @@
+/* Waterfall Names */
+.date_text {
+  font-variant: inherit;
+  font-family: monospace;
+  text-align: left;
+  text-indent: 220px;
+}
+
+.small_caps {
+  font-variant: small-caps;
+  font-family: Impact, Charcoal, sans-serif;
+  text-align: left;
+  text-indent: 220px;
+}
+
+.falls_image {
+margin-left: 30px;
+}

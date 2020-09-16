@@ -16,3 +16,12 @@
 .falls_image {
 margin-left: 30px;
 }
+/* waterfall pages columns */
+.columnleft {
+  width: 60%;
+  background-color:rgb(159, 159, 182);
+}
+.columnright {
+  background-color:rgb(97, 97, 150);
+  width: 40%;
+}
